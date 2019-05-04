@@ -1,0 +1,17 @@
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\obj\Debug\MainApp.csprojAssemblyReference.cache
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\obj\Debug\MainApp.Form1.resources
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\obj\Debug\MainApp.Properties.Resources.resources
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\obj\Debug\MainApp.csproj.GenerateResource.cache
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\bin\Debug\MainApp.exe.config
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\bin\Debug\MainApp.exe
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\bin\Debug\MainApp.pdb
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\obj\Debug\MainApp.exe
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\obj\Debug\MainApp.pdb
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\bin\Debug\Interface1.dll
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\bin\Debug\Interface1.pdb
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\bin\Debug\ClassLibrary1.dll
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\bin\Debug\ClassLibrary2.dll
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\bin\Debug\ClassLibrary1.pdb
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\MainApp\bin\Debug\ClassLibrary2.pdb

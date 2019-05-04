@@ -1,0 +1,6 @@
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\Interface1\bin\Debug\Interface1.dll
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\Interface1\bin\Debug\Interface1.pdb
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\Interface1\obj\Debug\Interface1.dll
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\Interface1\obj\Debug\Interface1.pdb

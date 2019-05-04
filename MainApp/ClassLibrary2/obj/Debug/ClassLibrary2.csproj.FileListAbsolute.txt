@@ -1,0 +1,9 @@
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\ClassLibrary2\bin\Debug\Interface1.dll
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\ClassLibrary2\bin\Debug\Interface1.pdb
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\YandexDisk\YandexDisk\C_sharp\Reflection_test\MainApp\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
